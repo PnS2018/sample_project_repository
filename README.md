@@ -1,2 +1,3 @@
-# sample_project_repository
-Example project repository with a possible folder structure
+# Project Name
+
+This project is an example project repository with an example folder structure.
